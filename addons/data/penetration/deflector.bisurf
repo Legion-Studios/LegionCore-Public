@@ -1,0 +1,10 @@
+Density = 5000;
+impact = "hitMetal";
+soundHit = "metal";
+rough=0.1;
+dust=0;
+friction=0.7;
+restitution=0.3;
+soundEnviron = "Empty";
+isWater=0;
+deflection = 5.0;
