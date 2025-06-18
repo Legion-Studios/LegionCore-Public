@@ -1,0 +1,12 @@
+ambient[] = {0.31, 0.31, 0.31, 0.31};
+diffuse[] = {0.31, 0.31, 0.31, 0.31};
+forcedDiffuse[] = {0, 0, 0, 0};
+emmisive[] = {0, 0, 0, 1};
+specular[] = {0.52, 0.52, 0.52, 0.52};
+specularPower = 14.7;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
+class Stage1 {
+    texture = "ls\core\addons\characters_clone_legacy\backpacks\survival\data\box_medic_nohq.paa";
+    uvSource = "tex";
+};

@@ -1,0 +1,31 @@
+class CfgAmmo {
+    class B_762x51_Ball;
+    class ls_762kw_hmp_ap: B_762x51_Ball {
+        hit = 13;
+        caliber = 1.541425819;
+        indirectHit = 0;
+        indirectHitRange = 0;
+        airFriction = -0.000010;
+        timeToLive = 40;
+        initSpeed = 865;
+        typicalSpeed = 50;
+        deflecting = 0;
+        brightness = 1000;
+        cost = 1;
+        tracerScale = 1.0;
+        tracerStartTime = 0.05;
+        tracerEndTime = 20;
+        aiAmmoUsageFlags = 64 + 128 + 256;
+        allowAgainstInfantry = 1;
+        submunitionAmmo = "";
+        submunitionDirectionType = "SubmunitionModelDirection";
+        submunitionInitSpeed = 1000;
+        submunitionParentSpeedCoef = 0.000000;
+        submunitionInitialOffset[] = {0, 0, -0.200000};
+        triggerOnImpact = 1;
+        deleteParentWhenTriggered = 0;
+        coefGravity = 0.01;
+        waterFriction = 0;
+        effectFly = "ls_plasma_red";
+    };
+};
