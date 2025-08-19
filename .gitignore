@@ -1,0 +1,31 @@
+# HEMTT
+hemtt/
+hemtt.exe
+.hemtt/missions/~*
+.hemttout/
+releases/
+*.zip
+
+# Arma
+ArmaScriptCompiler.exe
+*.biprivatekey
+*.pbo
+*.sqfc
+
+# Textures
+*.psd
+
+# Tools
+tools/output
+.idea
+.venv
+
+# keys
+*.biprivatekey
+
+# compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz

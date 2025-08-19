@@ -1,0 +1,13 @@
+PREP(adsModeSound);
+PREP(adsSound);
+PREP(animateAkimbo);
+PREP(attachmentSwap);
+PREP(onFired);
+PREP(onFiredAkimbo);
+PREP(onHit);
+PREP(onHitIon);
+PREP(onHitStun);
+PREP(onReload);
+PREP(onReloadAkimbo);
+PREP(stun);
+PREP(stunEffects);

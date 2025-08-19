@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="zeus">
+        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
+        <Key ID="STR_ls_zeus_nothingSelected">
+            <English>Place on a unit</English>
+            <Czech>Umístni na jednotku</Czech>
+            <French>Placer sur une unité.</French>
+            <Spanish>Nada bajo el ratón</Spanish>
+            <Italian>Piazza su una unità</Italian>
+            <Polish>Nie ma nic pod kursorem</Polish>
+            <Portuguese>Coloque em uma unidade</Portuguese>
+            <Russian>Ничего не выделено</Russian>
+            <German>Es wurde nichts ausgewählt</German>
+            <Korean>대상에 배치하기</Korean>
+            <Japanese>ユニットの上に配置する必要があります</Japanese>
+            <Chinese>放置在一個單位上</Chinese>
+            <Chinesesimp>放置在一个单位上</Chinesesimp>
+            <Turkish>Bir birim yerleştir</Turkish>
+            <Hungarian>Semmi sincs az egér alatt</Hungarian>
+        </Key>
+        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
+        <Key ID="STR_ls_zeus_onlyAlive">
+            <English>Unit must be alive</English>
+            <Czech>Použitelné jen na živé jednotky</Czech>
+            <French>L'unité doit être vivante.</French>
+            <Spanish>Utilizar solo en unidades vivas</Spanish>
+            <Italian>Si può fare solo su unità vive</Italian>
+            <Polish>Używaj tylko na żywych jednostkach</Polish>
+            <Portuguese>Unidade deve estar viva</Portuguese>
+            <Russian>Применимо только к живым юнитам</Russian>
+            <German>Einheit muss lebendig sein.</German>
+            <Korean>대상이 반드시 살아 있어야 합니다</Korean>
+            <Japanese>ユニットは生きている必要があります</Japanese>
+            <Chinese>單位必須是活著</Chinese>
+            <Chinesesimp>单位必须是活的</Chinesesimp>
+            <Turkish>Birliğin yaşaması gerekiyor</Turkish>
+            <Hungarian>Csak élő egységeken használni</Hungarian>
+        </Key>
+        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
+        <Key ID="STR_ls_zeus_onlyInfantry">
+            <English>Unit must be infantry</English>
+            <Czech>Použitelné jen na pěsích jednotkách</Czech>
+            <French>L'unité doit être un fantassin.</French>
+            <Spanish>Utilizar solo en infanteria desmontada</Spanish>
+            <Italian>Si può usare solo su fanteria a piedi</Italian>
+            <Polish>Używaj tylko na piechocie poza wszelkimi pojazdami</Polish>
+            <Portuguese>Unidade deve ser uma infantaria desmontada</Portuguese>
+            <Russian>Применимо только к пехоте вне техники</Russian>
+            <German>Nur bei abgesessener Infanterie verwendbar</German>
+            <Korean>대상이 반드시 보병이어야 합니다</Korean>
+            <Japanese>ユニットは歩兵である必要があります</Japanese>
+            <Chinese>單位必須是步兵</Chinese>
+            <Chinesesimp>单位必须是步兵</Chinesesimp>
+            <Hungarian>Csak járműben kívül lévő egységeken használni</Hungarian>
+        </Key>
+    </Package>
+</Project>

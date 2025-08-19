@@ -1,0 +1,27 @@
+class ls_bullet_flyby_soundSet: bulletFlyBy_SoundSet {
+    soundShaders[] = {"ls_bullet_flyby_soundShader"};
+};
+
+#include "b2\CfgSoundSets.hpp"
+#include "dc15a\CfgSoundSets.hpp"
+#include "dc15b\CfgSoundSets.hpp"
+#include "dc15c\CfgSoundSets.hpp"
+#include "dc15l\CfgSoundSets.hpp"
+#include "dc15s\CfgSoundSets.hpp"
+#include "dc15x\CfgSoundSets.hpp"
+#include "dc17m\CfgSoundSets.hpp"
+#include "dc17s\CfgSoundSets.hpp"
+#include "dp20\CfgSoundSets.hpp"
+#include "dw32s\CfgSoundSets.hpp"
+#include "e5\CfgSoundSets.hpp"
+#include "e5c\CfgSoundSets.hpp"
+#include "e5s\CfgSoundSets.hpp"
+#include "e5x\CfgSoundSets.hpp"
+#include "e11\CfgSoundSets.hpp"
+#include "medBlaster\CfgSoundSets.hpp"
+#include "firepuncher\CfgSoundSets.hpp"
+#include "mpl\CfgSoundSets.hpp"
+#include "ugl\CfgSoundSets.hpp"
+#include "valken38x\CfgSoundSets.hpp"
+#include "westarM5\CfgSoundSets.hpp"
+#include "z6\CfgSoundSets.hpp"
