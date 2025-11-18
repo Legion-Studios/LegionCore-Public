@@ -1,0 +1,14 @@
+BARC_HELMET(212th,trooper,212th);
+ARF_P1_HELMET(212th,trooper,212th);
+ARF_P1_HELMET(212th,nco,212th NCO);
+ARF_P2_HELMET(212th,trooper,212th);
+ARF_P2_HELMET(212th,nco,212th NCO);
+SPECOPS_P1_HELMET(212th,trooper,212th);
+SPECOPS_P2_HELMET(212th,trooper,212th);
+ENGINEER_HELMET(212th,trooper,212th);
+P1_HELMET(212th,trooper,212th);
+P2_HELMET(212th,trooper,212th);
+P2_HELMET(212th,boil,212th [Boil]);
+P2_HELMET(212th,waxer,212th [Waxer]);
+P2_HELMET(212th,cody,212th [Cody]);
+AIRBORNE_HELMET(212th,trooper,212th);

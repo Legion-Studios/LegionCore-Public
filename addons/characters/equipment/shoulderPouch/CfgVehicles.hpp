@@ -1,0 +1,14 @@
+class ls_backpack_shoulderPouch: ls_backpack_base {
+    scope = 2;
+    author = AUTHOR;
+    displayName = "Shoulder Pouch";
+
+    model = QPATHTOF(equipment\shoulderPouch\ls_equipment_shoulderPouch.p3d);
+    hiddenSelections[] = {"camo1"};
+    hiddenSelectionsTextures[] = {
+        QPATHTOF(equipment\chestRig\data\camo1_co.paa)
+    };
+    picture = QPATHTOF(data\ui\shoulderPouch_ui_ca.paa);
+
+    maximumLoad = 100;
+};

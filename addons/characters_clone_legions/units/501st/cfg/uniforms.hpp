@@ -1,0 +1,9 @@
+PHASE2_UNIFORM(501st,echo,[501st] Echo);
+PHASE2_UNIFORM(501st,fives,[501st] Fives);
+PHASE2_UNIFORM(501st,hardcase,[501st] Hardcase);
+PHASE2_UNIFORM(501st,jesse,[501st] Jesse);
+PHASE2_UNIFORM(501st,rex,[501st] Rex);
+PHASE2_UNIFORM(501st,dogma,[501st] Dogma);
+PHASE2_UNIFORM(501st,tup,[501st] Tup);
+PHASE2_UNIFORM(501st,kix,[501st] Kix);
+PHASE2_UNIFORM(501st,trooper,[501st] Trooper);

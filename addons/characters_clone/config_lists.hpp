@@ -1,0 +1,75 @@
+#undef UNITS_LIST
+#define UNITS_LIST \
+"ls_cloneBackpack_arc", \
+"ls_cloneBackpack_beltbag", \
+"ls_cloneBackpack_cdv", \
+"ls_cloneBackpack_jt12", \
+"ls_cloneBackpack_miniLR", \
+"ls_cloneBackpack_miniLR_attachment", \
+"ls_cloneBackpack_standard", \
+"ls_cloneBackpack_radio", \
+"ls_cloneBackpack_rocket", \
+"ls_cloneBackpack_medic", \
+"ls_cloneBackpack_ammo", \
+"ls_cloneBackpack_heavy", \
+"ls_cloneBackpack_commando", \
+"ls_cloneBackpack_commando_eod", \
+"ls_cloneBackpack_commando_rto", \
+"ls_cloneBackpack_commando_tech", \
+"ls_cloneUniform_phase2", \
+"ls_cloneUniform_scout", \
+"ls_cloneHelmet_airborne_GH", \
+"ls_cloneHelmet_arc_GH", \
+"ls_cloneHelmet_arf_GH", \
+"ls_cloneHelmet_phase1_GH", \
+"ls_cloneHelmet_phase2_GH", \
+"ls_cloneHelmet_phase2Pilot_GH", \
+"ls_cloneHelmet_phase3Pilot_GH", \
+"ls_cloneHelmet_scout_GH", \
+"ls_cloneHelmet_atrtDriver_GH", \
+"ls_clone_electrobinoculars_GH", \
+"ls_clone_electrobinocularsCommander_GH", \
+"ls_clone_electrobinocularsCommander_night_GH", \
+"ls_gar_jediCommander", \
+"ls_clone_airborne_rifleman", \
+"ls_clone_airborne_marksman", \
+"ls_clone_airborne_sniper", \
+"ls_clone_airborne_grenadier", \
+"ls_clone_airborne_medic", \
+"ls_clone_arc_rifleman", \
+"ls_clone_arf_rifleman", \
+"ls_clone_phase2_rifleman", \
+"ls_clone_phase1_pilot", \
+"ls_clone_phase1_crewman", \
+"ls_clone_phase2_pilot", \
+"ls_clone_arc_pilot", \
+"ls_clone_vwing_pilot", \
+"ls_clone_imperial_pilot", \
+"ls_clone_scout_base", \
+"ls_clone_scout", \
+"ls_clone_scout_undersuit"
+
+#undef WEAPONS_LIST
+#define WEAPONS_LIST \
+"ls_cloneHelmet_airborne", \
+"ls_cloneHelmet_arc", \
+"ls_cloneHelmet_phase1",\
+"ls_cloneHelmet_phase2", \
+"ls_cloneHelmet_phase2Pilot", \
+"ls_cloneHelmet_phase3Pilot", \
+"ls_cloneHelmet_scout", \
+"ls_cloneHelmet_atrtDriver", \
+"ls_cloneVest_arc", \
+"ls_cloneVest_arc_cadet", \
+"ls_cloneVest_gunner", \
+"ls_cloneVest_officer", \
+"ls_cloneVest_recon", \
+"ls_cloneNVG_phase1Headlamp", \
+"ls_cloneNVG_phase1Headlamp_double", \
+"ls_cloneNVG_phase1Headlamp_left", \
+"ls_cloneNVG_phase2Headlamp", \
+"ls_cloneNVG_phase2Headlamp_double", \
+"ls_cloneNVG_phase2Headlamp_right", \
+"ls_clone_electrobinoculars", \
+"ls_clone_electrobinocularsCommander", \
+"ls_clone_electrobinocularsCommander_night"
