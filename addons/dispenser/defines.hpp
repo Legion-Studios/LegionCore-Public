@@ -1,0 +1,4 @@
+#define PATROL_RADIUS 200
+#define PATROL_WAYPOINTS 3 + random 3
+
+#define SPAWN_LIMIT_DEFAULT 50

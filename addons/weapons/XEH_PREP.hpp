@@ -1,0 +1,17 @@
+PREP(adsModeSound);
+PREP(adsSound);
+PREP(animateAkimbo);
+PREP(attachmentSwap);
+PREP(breachingCharge);
+PREP(exploded);
+PREP(getAmmoData);
+PREP(onFired);
+PREP(onFiredAkimbo);
+PREP(onHit);
+PREP(onHitIon);
+PREP(onHitStun);
+PREP(onReload);
+PREP(onReloadAkimbo);
+PREP(startMagazineRecharge);
+PREP(stun);
+PREP(stunEffects);

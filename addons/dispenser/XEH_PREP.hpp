@@ -1,0 +1,13 @@
+PREP(activate);
+PREP(activateServer);
+PREP(createUnit);
+PREP(deactivate);
+PREP(deactivateServer);
+PREP(dispenserPFH);
+PREP(dropDispenser);
+PREP(getDispenserData);
+PREP(getSpawnGroupUnits);
+PREP(handleKilled);
+PREP(initDispenserOrdnance);
+PREP(parseConfig);
+PREP(setSpawnGroup);

@@ -1,0 +1,17 @@
+HELMET_GH(CSTRING(b1_helmet),ls_droidHelmet_b1);
+HELMET_GH(CSTRING(b1_geonosis_helmet),ls_droidHelmet_b1_geonosis);
+HELMET_GH(CSTRING(b1_training_helmet),ls_droidHelmet_b1_training);
+HELMET_GH(CSTRING(b1_saboteur_helmet),ls_droidHelmet_b1_saboteur);
+HELMET_GH(CSTRING(b1_firefighter_helmet),ls_droidHelmet_b1_firefighter);
+HELMET_GH(CSTRING(b1_scout_helmet),ls_droidHelmet_b1_scout);
+HELMET_GH(CSTRING(b1_scout_geonosis_helmet),ls_droidHelmet_b1_scout_geonosis);
+HELMET_GH(CSTRING(b1_grenadier_helmet),ls_droidHelmet_b1_grenadier);
+HELMET_GH(CSTRING(b1_grenadier_geonosis_helmet),ls_droidHelmet_b1_grenadier_geonosis);
+HELMET_GH(CSTRING(b1_commander_helmet),ls_droidHelmet_b1_commander);
+HELMET_GH(CSTRING(b1_commander_advanced_helmet),ls_droidHelmet_b1_commander_advanced);
+HELMET_GH(CSTRING(b1_commander_geonosis_helmet),ls_droidHelmet_b1_commander_geonosis);
+HELMET_GH(CSTRING(b1_crew_helmet),ls_droidHelmet_b1_crew);
+HELMET_GH(CSTRING(b1_crew_geonosis_helmet),ls_droidHelmet_b1_crew_geonosis);
+HELMET_GH(CSTRING(b1_junkyard_helmet),ls_droidHelmet_b1_junkyard);
+HELMET_GH(CSTRING(b1_hologram_helmet),ls_droidHelmet_b1_hologram);
+HELMET_GH(CSTRING(b1_simulation_helmet),ls_droidHelmet_b1_simulation);

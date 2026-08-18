@@ -1,0 +1,22 @@
+class CfgVehicles {
+    class ls_weapon_groundHolder_base;
+    WEAPON_GH(CSTRING(dc15a),ls_weapon_dc15a,ls_magazine_dc15a);
+    WEAPON_GH(CSTRING(dc15a_wooden),ls_weapon_dc15a_wooden,ls_magazine_dc15a);
+    WEAPON_GH(CSTRING(dc15ac),ls_weapon_dc15ac,ls_magazine_dc15a);
+    WEAPON_GH(CSTRING(dc15s),ls_weapon_dc15s,ls_magazine_dc15s);
+    WEAPON_GH(CSTRING(dc17s),ls_weapon_dc17s,ls_magazine_dc17s);
+    WEAPON_GH(CSTRING(dc17s_fordo),ls_weapon_dc17s_fordo,ls_magazine_dc17s);
+    WEAPON_GH(CSTRING(dc17s_dual),ls_weapon_dc17s_dual,ls_magazine_dc17s);
+    WEAPON_GH(CSTRING(dc17s_dual_fordo),ls_weapon_dc17s_dual_fordo,ls_magazine_dc17s);
+    WEAPON_GH(CSTRING(dc15sa),ls_weapon_dc15sa,ls_magazine_dc15sa);
+    WEAPON_GH("DC-15SAW",ls_weapon_dc15saw,ls_magazine_dc15a);
+    WEAPON_GH("DC-15SAW (Wooden Stock)",ls_weapon_dc15saw_wooden,ls_magazine_dc15a);
+    WEAPON_GH(CSTRING(dc15x),ls_weapon_dc15x,ls_magazine_dc15x);
+    WEAPON_GH(CSTRING(dc15x_wooden),ls_weapon_dc15x_wooden,ls_magazine_dc15x);
+    WEAPON_GH(CSTRING(dc17m),ls_weapon_dc17m,ls_magazine_dc17m);
+    WEAPON_GH(CSTRING(dc17m_sniper),ls_weapon_dc17m_sniper,ls_magazine_dc17m_sniper);
+    WEAPON_GH(CSTRING(dc17m_antiArmor),ls_weapon_dc17m_antiArmor,ls_magazine_dc17m_antiArmor);
+    WEAPON_GH("DC-15BR",ls_weapon_dc15br,ls_magazine_dc15br);
+    WEAPON_GH("DC-15BR (Wooden Stock)",ls_weapon_dc15br_wooden,ls_magazine_dc15br);
+    WEAPON_GH(CSTRING(dp20),ls_weapon_dp20,ls_magazine_dp20);
+};

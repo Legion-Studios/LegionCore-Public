@@ -1,0 +1,5 @@
+HELMET_GH(CSTRING(senateCommando_helmet),ls_csfHelmet_senateCommando);
+HELMET_GH(CSTRING(senateCommando_guardsman_helmet),ls_csfHelmet_senateCommando_guardsman);
+HELMET_GH(CSTRING(senateCommando_lieutenant_helmet),ls_csfHelmet_senateCommando_lieutenant);
+HELMET_GH(CSTRING(senateCommando_captain_helmet),ls_csfHelmet_senateCommando_captain);
+HELMET_GH(CSTRING(senateCommando_hologram_helmet),ls_csfHelmet_senateCommando_hologram);

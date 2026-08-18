@@ -1,0 +1,10 @@
+PREP(activateShield);
+PREP(deactivateShield);
+PREP(droidekaDeleted);
+PREP(droidekaInit);
+PREP(droideka_combat);
+PREP(getDroidekaAnim);
+PREP(getDroidekas);
+PREP(impostorInit);
+PREP(shieldHandleDamage);
+PREP(shieldRechargePFH);

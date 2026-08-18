@@ -1,0 +1,24 @@
+class ls_cloneHelmet_atrtDriver: ls_cloneHelmet_base {
+    scope = 2;
+    author = AUTHOR;
+    displayName = CSTRING(atrtDriver_helmet);
+
+    model = QPATHTOF(helmets\atrtDriver\ls_helmet_clone_atrtDriver.p3d);
+    hiddenSelections[] = {
+        "helmet",
+        "visor"
+    };
+    hiddenSelectionsTextures[] = {
+        QPATHTOF(helmets\atrtDriver\data\helmet_CO.paa),
+        QPATHTOF(helmets\atrtDriver\data\helmet_CO.paa)
+    };
+    picture = QPATHTOF(data\ui\atrtHelmet_ui_ca.paa);
+
+    class ItemInfo: ItemInfo {
+        uniformModel = QPATHTOF(helmets\atrtDriver\ls_helmet_clone_atrtDriver.p3d);
+        hiddenSelections[] = {
+            "helmet",
+            "visor"
+        };
+    };
+};

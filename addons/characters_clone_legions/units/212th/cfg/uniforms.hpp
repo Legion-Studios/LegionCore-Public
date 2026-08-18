@@ -1,0 +1,6 @@
+P2_UNIFORM(212th,trooper,212th);
+
+LEGACY_PHASE2_UNIFORM(212th,airborne,212th [Airborne]);
+LEGACY_PHASE2_UNIFORM(212th,boil,212th [Boil]);
+LEGACY_PHASE2_UNIFORM(212th,waxer,212th [Waxer]);
+LEGACY_MARSHALCOMMANDER_UNIFORM(212th,cody,212th [Cody]);

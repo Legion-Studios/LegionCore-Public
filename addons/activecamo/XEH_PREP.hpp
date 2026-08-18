@@ -1,0 +1,16 @@
+PREP(activate);
+PREP(activateUnit);
+PREP(activateVehicle);
+PREP(canActivate);
+PREP(canDeactivate);
+PREP(deactivate);
+PREP(deactivateUnit);
+PREP(deactivateVehicle);
+PREP(getCamoItem);
+PREP(handleKilled);
+PREP(onFired);
+PREP(onHit);
+PREP(replaceLoadoutItems);
+PREP(statBarStatement_camouflageCoef);
+PREP(statCondition_hasActiveCamo);
+PREP(statTextStatement_camouflageCoef);

@@ -1,0 +1,2 @@
+class RscPicture;
+class RscText;

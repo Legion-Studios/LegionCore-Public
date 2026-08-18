@@ -1,0 +1,2 @@
+LEGACY_PHASE2_UNIFORM(612th,trooper,612th);
+LEGACY_PHASE2_UNIFORM(612th,ganch,612th [Ganch]);

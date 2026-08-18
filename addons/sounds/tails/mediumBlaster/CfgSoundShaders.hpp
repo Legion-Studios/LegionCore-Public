@@ -1,0 +1,30 @@
+class ls_mediumBlaster_tailInterior_SoundShader {
+    samples[] = {{QPATHTOF(tails\mediumBlaster\tailInterior1.wav), 1}};
+    volume = "interior";
+    range = 500;
+    limitation = 0;
+};
+class ls_mediumBlaster_tailTrees_SoundShader {
+    samples[] = {{QPATHTOF(tails\mediumBlaster\tailWoods1.wss), 1}};
+    volume = "(1 - interior / 1.4) * trees / 3";
+    range = 1800;
+    limitation = 1;
+};
+class ls_mediumBlaster_tailForest_SoundShader {
+    samples[] = {{QPATHTOF(tails\mediumBlaster\tailWoods1.wss), 1}};
+    volume = "(1 - interior / 1.4) * forest / 3";
+    range = 1800;
+    limitation = 1;
+};
+class ls_mediumBlaster_tailMeadows_SoundShader {
+    samples[] = {{QPATHTOF(tails\mediumBlaster\tailMeadows1.wss), 1}};
+    volume = "(1 - interior / 1.4) * (meadows / 2 max sea / 2) / 3";
+    range = 1800;
+    limitation = 1;
+};
+class ls_mediumBlaster_tailHouses_SoundShader {
+    samples[] = {{QPATHTOF(tails\mediumBlaster\tailHouse1.wss), 1}};
+    volume = "(1 - interior / 1.4) * houses / 3";
+    range = 1200;
+    limitation = 1;
+};

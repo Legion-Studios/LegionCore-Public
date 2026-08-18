@@ -1,0 +1,8 @@
+HELMET_GH(CSTRING(kepi_helmet),ls_imperialHelmet_kepi);
+HELMET_GH(CSTRING(kepi_black_helmet),ls_imperialHelmet_kepi_black);
+HELMET_GH(CSTRING(kepi_isb_helmet),ls_imperialHelmet_kepi_isb);
+HELMET_GH(CSTRING(kepi_mudtrooper_helmet),ls_imperialHelmet_kepi_mudtrooper);
+HELMET_GH(CSTRING(kepi_goggles_helmet),ls_imperialHelmet_kepi_g);
+HELMET_GH(CSTRING(kepi_goggles_black_helmet),ls_imperialHelmet_kepi_g_black);
+HELMET_GH(CSTRING(kepi_goggles_isb_helmet),ls_imperialHelmet_kepi_g_mudtrooper);
+HELMET_GH(CSTRING(kepi_goggles_mudtrooper_helmet),ls_imperialHelmet_kepi_g_isb);

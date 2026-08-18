@@ -1,0 +1,56 @@
+#undef UNITS_LIST
+#define UNITS_LIST \
+SPAWN_UNITS_CLASSES(standard,phase1), \
+SPAWN_UNITS_CLASSES(standard,phase2), \
+"ls_clone_phase2_standard_pilot", \
+"ls_clone_phase2_standard_arcPilot", \
+"ls_clone_phase2_standard_vwingPilot", \
+"ls_clone_phase2_standard_atrtDriver", \
+SPAWN_UNITS_CLASSES(5th,phase2), \
+SPAWN_UNITS_CLASSES(9th,phase2), \
+SPAWN_UNITS_CLASSES(21st,phase2), \
+SPAWN_UNITS_CLASSES(38th,phase2), \
+"ls_clone_phase2_41st_gree", \
+SPAWN_UNITS_CLASSES(41strb,phase2), \
+"ls_clone_phase2_41strb_atrtDriver", \
+SPAWN_UNITS_CLASSES(91st,phase2), \
+"ls_clone_phase1_91st_ponds", \
+SPAWN_UNITS_CLASSES(104th,phase2), \
+SPAWN_UNITS_CLASSES(187th,phase2), \
+SPAWN_UNITS_CLASSES(212th,phase2), \
+SPAWN_UNITS_CLASSES(327th,phase2), \
+SPAWN_UNITS_CLASSES(501st,phase2), \
+SPAWN_UNITS_CLASSES(coruscantguard,phase2), \
+SPAWN_UNITS_CLASSES(du,phase2), \
+"ls_clone_du_doom", \
+"ls_clone_marshalCommander_212th_cody", \
+"ls_clone_misc_fordo", \
+"ls_clone_commando_aiwhaSarge", \
+"ls_clone_commando_aiwhaZag", \
+"ls_clone_commando_aiwhaDikut", \
+"ls_clone_commando_aiwhaTyto", \
+"ls_clone_commando_bravoRam", \
+"ls_clone_commando_bravo2", \
+"ls_clone_commando_bravo3", \
+"ls_clone_commando_bravo4", \
+"ls_clone_commando_deltaBoss", \
+"ls_clone_commando_deltaFixer", \
+"ls_clone_commando_deltaScorch", \
+"ls_clone_commando_deltaSev", \
+"ls_clone_commando_foxtrotGregor", \
+"ls_clone_commando_hodasalJungle", \
+"ls_clone_commando_mpGunner", \
+"ls_clone_commando_mpMarksman", \
+"ls_clone_commando_mpRecon", \
+"ls_clone_commando_mpStealth", \
+"ls_clone_commando_omegaNiner", \
+"ls_clone_commando_omegaAtin", \
+"ls_clone_commando_omegaDarman", \
+"ls_clone_commando_omegaFi", \
+"ls_clone_commando_yayaxCov", \
+"ls_clone_commando_yayaxYover", \
+"ls_clone_commando_yayaxDev", \
+"ls_clone_commando_yayaxJind"
+
+#undef WEAPONS_LIST
+#define WEAPONS_LIST ""
