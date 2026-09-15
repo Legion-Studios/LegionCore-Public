@@ -1,0 +1,37 @@
+ambient[] = {1, 1, 1, 1};
+diffuse[] = {1, 1, 1, 1};
+forcedDiffuse[] = {0, 0, 0, 1};
+emmisive[] = {0, 0, 0, 1};
+specular[] = {0.15000001, 0.15000001, 0.15000001, 1};
+specularPower=30;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+class Stage1 {
+    texture = "ls\core\addons\vehicles_tx130\data\tracks_nohq.paa";
+    uvSource = "tex";
+};
+class Stage2 {
+    texture = "#(argb,8,8,3)color(0.5,0.5,0.5,1,DT)";
+    uvSource = "tex";
+};
+class Stage3 {
+    texture = "#(argb,8,8,3)color(0,0,0,0,MC)";
+    uvSource = "tex";
+};
+class Stage4 {
+    texture = "ls\core\addons\vehicles_tx130\data\tracks_as.paa";
+    uvSource = "tex";
+};
+class Stage5 {
+    texture = "ls\core\addons\vehicles_tx130\data\tracks_smdi.paa";
+    uvSource = "tex";
+};
+class Stage6 {
+    texture = "#(ai,64,64,1)fresnel(4.7,1.2)";
+    uvSource = "tex";
+};
+class Stage7 {
+    texture = "a3\data_f\env_land_co.paa";
+    useWorldEnvMap = "true";
+    uvSource = "tex";
+};

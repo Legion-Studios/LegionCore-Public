@@ -1,0 +1,16 @@
+class ls_weapon_goose: ls_weapon_melee_base {
+    scope = 2;
+    author = AUTHOR;
+    displayName = ECSTRING(meme,goose_displayName);
+    descriptionShort = ECSTRING(meme,goose_descriptionShort);
+    baseWeapon = "ls_weapon_goose";
+
+    model = QPATHTOEF(meme,goose\ls_meme_goose.p3d);
+    picture = QPATHTOEF(meme,data\ui\goose_wide_ui_ca.paa);
+
+    IMS_Melee_Param_Damage = 0.3;
+    IMS_WeaponType = "onehanded";
+    IMS_Melee_Param_Sounds = "[""ls_ugg_honk_01"", ""ls_ugg_honk_02"", ""ls_ugg_honk_03"", ""ls_ugg_honk_04"", ""ls_ugg_honk_05"", ""ls_ugg_honk_glass_01"", ""ls_ugg_honk_glass_02"", ""ls_ugg_honk_glass_03"", ""ls_ugg_honk_glass_04"", ""ls_ugg_honk_harmonica_01"", ""ls_ugg_honk_harmonica_02"", ""ls_ugg_honk_harmonica_03"", ""ls_ugg_honk_harmonica_04"", ""ls_ugg_honk_harmonica_05"", ""ls_ugg_honk_harmonica_06"", ""ls_ugg_honk_pylon_01"", ""ls_ugg_honk_pylon_02"", ""ls_ugg_honk_pylon_03"", ""ls_ugg_honk_pylon_04"", ""ls_ugg_honk_pylon_05"", ""ls_ugg_honk_pylon_06"", ""ls_ugg_honk_pylon_07"", ""ls_ugg_honk_soap_01"", ""ls_ugg_honk_soap_02"", ""ls_ugg_honk_soap_03"", ""ls_ugg_honk_soap_04"", ""ls_ugg_honk_trashlid_01"", ""ls_ugg_honk_trashlid_02"", ""ls_ugg_honk_trashlid_03"", ""ls_ugg_honk_trashlid_04"", ""ls_ugg_honk_trashlid_05"", ""ls_ugg_honk_walkie_talkie_01"", ""ls_ugg_honk_walkie_talkie_02"", ""ls_ugg_honk_walkie_talkie_03""]";
+    IMS_Melee_Param_SoundsOnHit = "[""ls_ugg_honk_01"", ""ls_ugg_honk_02"", ""ls_ugg_honk_03"", ""ls_ugg_honk_04"", ""ls_ugg_honk_05"", ""ls_ugg_honk_glass_01"", ""ls_ugg_honk_glass_02"", ""ls_ugg_honk_glass_03"", ""ls_ugg_honk_glass_04"", ""ls_ugg_honk_harmonica_01"", ""ls_ugg_honk_harmonica_02"", ""ls_ugg_honk_harmonica_03"", ""ls_ugg_honk_harmonica_04"", ""ls_ugg_honk_harmonica_05"", ""ls_ugg_honk_harmonica_06"", ""ls_ugg_honk_pylon_01"", ""ls_ugg_honk_pylon_02"", ""ls_ugg_honk_pylon_03"", ""ls_ugg_honk_pylon_04"", ""ls_ugg_honk_pylon_05"", ""ls_ugg_honk_pylon_06"", ""ls_ugg_honk_pylon_07"", ""ls_ugg_honk_soap_01"", ""ls_ugg_honk_soap_02"", ""ls_ugg_honk_soap_03"", ""ls_ugg_honk_soap_04"", ""ls_ugg_honk_trashlid_01"", ""ls_ugg_honk_trashlid_02"", ""ls_ugg_honk_trashlid_03"", ""ls_ugg_honk_trashlid_04"", ""ls_ugg_honk_trashlid_05"", ""ls_ugg_honk_walkie_talkie_01"", ""ls_ugg_honk_walkie_talkie_02"", ""ls_ugg_honk_walkie_talkie_03""]";
+    IMS_Melee_Param_SoundsOnBlock = "[""ls_ugg_honk_01"", ""ls_ugg_honk_02"", ""ls_ugg_honk_03"", ""ls_ugg_honk_04"", ""ls_ugg_honk_05"", ""ls_ugg_honk_glass_01"", ""ls_ugg_honk_glass_02"", ""ls_ugg_honk_glass_03"", ""ls_ugg_honk_glass_04"", ""ls_ugg_honk_harmonica_01"", ""ls_ugg_honk_harmonica_02"", ""ls_ugg_honk_harmonica_03"", ""ls_ugg_honk_harmonica_04"", ""ls_ugg_honk_harmonica_05"", ""ls_ugg_honk_harmonica_06"", ""ls_ugg_honk_pylon_01"", ""ls_ugg_honk_pylon_02"", ""ls_ugg_honk_pylon_03"", ""ls_ugg_honk_pylon_04"", ""ls_ugg_honk_pylon_05"", ""ls_ugg_honk_pylon_06"", ""ls_ugg_honk_pylon_07"", ""ls_ugg_honk_soap_01"", ""ls_ugg_honk_soap_02"", ""ls_ugg_honk_soap_03"", ""ls_ugg_honk_soap_04"", ""ls_ugg_honk_trashlid_01"", ""ls_ugg_honk_trashlid_02"", ""ls_ugg_honk_trashlid_03"", ""ls_ugg_honk_trashlid_04"", ""ls_ugg_honk_trashlid_05"", ""ls_ugg_honk_walkie_talkie_01"", ""ls_ugg_honk_walkie_talkie_02"", ""ls_ugg_honk_walkie_talkie_03""]";
+};

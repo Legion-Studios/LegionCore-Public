@@ -1,0 +1,2 @@
+PREP(logDeprecatedAddons);
+PREP(replaceObjects);

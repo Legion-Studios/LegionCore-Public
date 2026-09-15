@@ -1,0 +1,9 @@
+// 1 = Visible within object view distance, 2 = terrain distance
+#define FEATURETYPE_DEFAULT 0
+#define FEATURETYPE_OBJECT 1
+#define FEATURETYPE_TERRAIN 2
+
+#define IDC_REINSERT_BACKGROUND 11182000
+#define IDC_REINSERT_TIMER      11182001
+#define IDC_REINSERT_TIMER_ICON 11182002
+#define IDC_REINSERT_LOCATION   11182003

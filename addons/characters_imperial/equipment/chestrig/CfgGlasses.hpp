@@ -1,0 +1,4 @@
+class ls_glasses_chestRig;
+class ls_glasses_chestRigPouch;
+DEPRECATED(ls_imperial_chestRig,ls_glasses_chestRig);
+DEPRECATED(ls_imperial_chestRigPouch,ls_glasses_chestRigPouch);

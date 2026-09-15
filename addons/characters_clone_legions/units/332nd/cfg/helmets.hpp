@@ -1,0 +1,2 @@
+LEGACY_P2_HELMET(332nd,trooper,332nd);
+LEGACY_AIRBORNE_HELMET(332nd,trooper,332nd);

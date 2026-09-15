@@ -1,0 +1,10 @@
+class RscControlsGroupNoScrollbars;
+class RscText;
+class RscEdit;
+class RscCombo;
+class RscXSliderH;
+class RscTreeSearch;
+class RscButtonSearch;
+class ctrlToolbox;
+class ctrlStaticFrame;
+class ctrlStatic;

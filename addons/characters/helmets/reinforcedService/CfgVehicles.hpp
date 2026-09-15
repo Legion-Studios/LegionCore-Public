@@ -1,0 +1,2 @@
+HELMET_GH(CSTRING(reinforcedService_coif_helmet),ls_helmet_reinforcedServiceCoif);
+HELMET_GH(CSTRING(reinforcedService_helmet),ls_helmet_reinforcedService);

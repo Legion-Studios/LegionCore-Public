@@ -1,0 +1,85 @@
+#define STEP {QPATHTOEF(sounds,characters\droideka\step1.wav), 2, 1, 20}, {QPATHTOEF(sounds,characters\droideka\step2.wav), 2, 1, 20}
+
+class SoundBleeding { breath[] = {}; };
+class SoundBreath { breath[] = {}; };
+class SoundBreathAiming {};
+class SoundBurning { breath[] = {}; };
+class SoundChoke { breath[] = {}; };
+class SoundDrown { breath[] = {}; };
+class SoundInjured { breath[] = {}; };
+class SoundRecovered { breath[] = {}; };
+class SoundEnvironExt {
+    asphalt_exp[] = {STEP};
+    concrete[] = {STEP};
+    concrete_exp[] = {STEP};
+    debris[] = {STEP};
+    dirt[] = {STEP};
+    dirt_exp[] = {STEP};
+    drygrass[] = {STEP};
+    forest[] = {STEP};
+    forest_exp[] = {STEP};
+    generic[] = {
+        {"ls_droideka_roll", {QPATHTOEF(sounds,characters\droideka\sprint1.wav), 3, 1, 50}},
+        {"ls_droideka_fold", {QPATHTOEF(sounds,characters\droideka\unfold.wav), 3, 1, 30}}, // TODO: get sound
+        {"ls_droideka_unfold", {QPATHTOEF(sounds,characters\droideka\unfold.wav), 3, 1, 30}}
+    };
+    grass[] = {STEP};
+    grass_exp[] = {STEP};
+    grasstall_exp[] = {STEP};
+    gravel[] = {STEP};
+    gravel_exp[] = {STEP};
+    gridmetal_exp[] = {STEP};
+    int_carpet_exp[] = {STEP};
+    int_concrete[] = {STEP};
+    int_concrete_exp[] = {STEP};
+    int_lino_exp[] = {STEP};
+    int_mat_exp[] = {STEP};
+    int_metal[] = {STEP};
+    int_metalplate_exp[] = {STEP};
+    int_pavement_exp[] = {STEP};
+    int_softwood_exp[] = {STEP};
+    int_solidwood_exp[] = {STEP};
+    int_tiles[] = {STEP};
+    int_wood[] = {STEP};
+    lino_exp[] = {STEP};
+    metal[] = {STEP};
+    metalplate_exp[] = {STEP};
+    metalplatepressed_exp[] = {STEP};
+    mud[] = {STEP};
+    mud_exp[] = {STEP};
+    normal[] = {STEP};
+    pavement_exp[] = {STEP};
+    rock[] = {STEP};
+    rooftiles_exp[] = {STEP};
+    sand[] = {STEP};
+    sand_exp[] = {STEP};
+    seabed_exp[] = {STEP};
+    softwood_exp[] = {STEP};
+    steel_exp[] = {STEP};
+    stones_exp[] = {STEP};
+    stony[] = {STEP};
+    straw_exp[] = {STEP};
+    tarmac[] = {STEP};
+    tiling[] = {STEP};
+    virtual[] = {STEP};
+    water[] = {STEP};
+    water_exp[] = {STEP};
+    wavymetal[] = {STEP};
+    wavymetal_exp[] = {STEP};
+    wood[] = {STEP};
+    normalExt[] = {STEP};
+    road[] = {STEP};
+    gravel2[] = {STEP};
+    wood_int[] = {STEP};
+    carpet[] = {STEP};
+    concrete_int[] = {STEP};
+    concrete_ext[] = {STEP};
+    steel[] = {STEP};
+    hallway[] = {STEP};
+    parkety[] = {STEP};
+    wave_plate[] = {STEP};
+    snow[] = {STEP};
+    crawl[] = {STEP};
+};
+
+#undef STEP

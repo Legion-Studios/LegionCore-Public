@@ -1,0 +1,6 @@
+P2_HELMET(327th,trooper,327th);
+
+LEGACY_BARC_HELMET(327th,trooper,327th);
+LEGACY_P1_HELMET(327th,trooper,327th);
+LEGACY_P2_HELMET(327th,bly,327th [Bly]);
+LEGACY_AIRBORNE_HELMET(327th,trooper,327th);

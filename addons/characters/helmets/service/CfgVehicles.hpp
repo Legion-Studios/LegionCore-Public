@@ -1,0 +1,8 @@
+HELMET_GH(CSTRING(service_comlink_helmet),ls_helmet_serviceComlink);
+HELMET_GH(CSTRING(service_helmet),ls_helmet_service);
+HELMET_GH(CSTRING(service_comlink_brown_helmet),ls_helmet_technicianComlink);
+HELMET_GH(CSTRING(service_brown_helmet),ls_helmet_technician);
+HELMET_GH(CSTRING(technician_comlink_helmet),ls_helmet_serviceComlink_brown);
+HELMET_GH(CSTRING(technician_helmet),ls_helmet_service_brown);
+HELMET_GH(CSTRING(technician_comlink_brown_helmet),ls_helmet_technicianComlink_brown);
+HELMET_GH(CSTRING(technician_brown_helmet),ls_helmet_technician_brown);

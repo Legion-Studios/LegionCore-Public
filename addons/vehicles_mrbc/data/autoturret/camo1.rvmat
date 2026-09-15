@@ -1,0 +1,38 @@
+ambient[] = {1, 1, 1, 1};
+diffuse[] = {1, 1, 1, 1};
+emmisive[] = {0, 0, 0, 0};
+forcedDiffuse[] = {0, 0, 0, 0};
+surfaceInfo = "a3\data_f\penetration\metal_plate.bisurf";
+specular[] = {0.01, 0.01, 0.01, 1};
+SpecularPower = 100;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+
+class Stage1 {
+    texture = "ls\core\addons\vehicles_mrbc\data\autoturret\camo1_nohq.paa";
+    uvSource = "tex";
+};
+class Stage2 {
+    texture = "#(argb,8,8,3)color(0.5,0.5,0.5,1,DT)";
+    uvSource = "tex";
+};
+class Stage3 {
+    texture = "#(argb,8,8,3)color(0,0,0,0,MC)";
+    uvSource = "tex";
+};
+class Stage4 {
+    texture = "ls\core\addons\vehicles_mrbc\data\autoturret\camo1_as.paa";
+    uvSource = "tex";
+};
+class Stage5 {
+    texture = "ls\core\addons\vehicles_mrbc\data\autoturret\camo1_smdi.paa";
+    uvSource = "tex";
+};
+class Stage6 {
+    texture = "#(ai,64,64,1)fresnel(1,1)";
+    uvSource = "none";
+};
+class Stage7 {
+    texture = "a3\data_f\env_co.paa";
+    uvSource = "none";
+};

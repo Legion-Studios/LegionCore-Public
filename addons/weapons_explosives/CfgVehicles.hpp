@@ -1,0 +1,44 @@
+class CfgVehicles {
+    class MineBase;
+    class ModuleExplosive_F;
+    PLACEABLE_EXPLOSIVE(breachCharge,ECSTRING(explosives,breachCharge_displayName));
+    PLACEABLE_EXPLOSIVE(demoCharge,ECSTRING(explosives,demoCharge_displayName));
+    PLACEABLE_EXPLOSIVE(detpack,ECSTRING(explosives,detpack_displayName));
+
+    // Not macro'd because they use vanilla models
+    class ls_explosive_caltropsDispenser: MineBase {
+        scope = 2;
+        scopeCurator = 0;
+        author = AUTHOR;
+        displayName = ECSTRING(explosives,caltropDispenser_displayName);
+        editorPreview = "\A3\EditorPreviews_F_Orange\Data\CfgVehicles\APERSMineDispenser_F.jpg";
+        model = "\A3\Weapons_F_Orange\Explosives\APERSmineDispenser.p3d";
+        ammo = "ls_explosive_caltropsDispenser_ammo";
+    };
+    class ls_explosive_caltropsDispenser_zeus: ModuleExplosive_F {
+        scopeCurator = 2;
+        author = AUTHOR;
+        displayName = ECSTRING(explosives,caltropDispenser_displayName);
+        editorPreview = "\A3\EditorPreviews_F_Orange\Data\CfgVehicles\APERSMineDispenser_F.jpg";
+        icon = "iconExplosiveGP";
+        explosive = "ls_explosive_caltropsDispenser_scripted_ammo";
+    };
+
+    class ls_explosive_caltrops: MineBase {
+        scope = 2;
+        scopeCurator = 0;
+        author = AUTHOR;
+        displayName = ECSTRING(explosives,caltrop_displayName);
+        editorPreview = "\A3\EditorPreviews_F_Orange\Data\CfgVehicles\APERSMineDispenser_Mine_F.jpg";
+        model = "\A3\Weapons_F_Orange\Explosives\APERSmineDispenser_ap_f.p3d";
+        ammo = "ls_explosive_caltrops_ammo";
+    };
+    class ls_explosive_caltrops_zeus: ModuleExplosive_F {
+        scopeCurator = 2;
+        author = AUTHOR;
+        displayName = ECSTRING(explosives,caltrop_displayName);
+        editorPreview = "\A3\EditorPreviews_F_Orange\Data\CfgVehicles\APERSMineDispenser_Mine_F.jpg";
+        icon = "iconExplosiveGP";
+        explosive = "ls_explosive_caltrops_ammo";
+    };
+};
